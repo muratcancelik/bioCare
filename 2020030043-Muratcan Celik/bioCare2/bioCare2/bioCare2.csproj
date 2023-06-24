@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{381EC72B-85C6-40CC-9670-63AABA7CF6D7}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>bioCare2</RootNamespace>
+    <AssemblyName>bioCare2</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BunifuDataViz 1.0.1">
+      <HintPath>..\..\..\..\Downloads\codeinpc.comBookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\bin\Debug\BunifuDataViz 1.0.1.dll</HintPath>
+    </Reference>
+    <Reference Include="Bunifu_UI_v1.52">
+      <HintPath>..\..\..\..\Downloads\codeinpc.comBookShop-master\BookShop-master\BookShopManagement\BookShopManagement\BookShopManagement\bin\Debug\Bunifu_UI_v1.52.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v21.1, Version=21.1.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.15.0.4795.1000\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.28.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\MySQL\Connector NET 8.0\Assemblies\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Formlar\AnaSayfa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\AnaSayfa.Designer.cs">
+      <DependentUpon>AnaSayfa.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\musteri_MusteriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\musteri_MusteriEkle.Designer.cs">
+      <DependentUpon>musteri_MusteriEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\personel_DepartmanEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\personel_DepartmanEkle.Designer.cs">
+      <DependentUpon>personel_DepartmanEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\personel_PersonelEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\personel_PersonelEkle.Designer.cs">
+      <DependentUpon>personel_PersonelEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\satis_KategoriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\satis_KategoriEkle.Designer.cs">
+      <DependentUpon>satis_KategoriEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\satis_MarkaEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\satis_MarkaEkle.Designer.cs">
+      <DependentUpon>satis_MarkaEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\satis_SatisEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\satis_SatisEkle.Designer.cs">
+      <DependentUpon>satis_SatisEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formlar\urun_UrunEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formlar\urun_UrunEkle.Designer.cs">
+      <DependentUpon>urun_UrunEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelEkranlari\logGoster.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanelEkranlari\logGoster.Designer.cs">
+      <DependentUpon>logGoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelEkranlari\musteriGoster.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanelEkranlari\musteriGoster.Designer.cs">
+      <DependentUpon>musteriGoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelEkranlari\musteri_MusteriLog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanelEkranlari\musteri_MusteriLog.Designer.cs">
+      <DependentUpon>musteri_MusteriLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelEkranlari\personelGoster.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanelEkranlari\personelGoster.Designer.cs">
+      <DependentUpon>personelGoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelEkranlari\satisGoster.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanelEkranlari\satisGoster.Designer.cs">
+      <DependentUpon>satisGoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelEkranlari\satis_SatisLog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanelEkranlari\satis_SatisLog.Designer.cs">
+      <DependentUpon>satis_SatisLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelEkranlari\urunGoster.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanelEkranlari\urunGoster.Designer.cs">
+      <DependentUpon>urunGoster.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PanelEkranlari\urun_UrunLog.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PanelEkranlari\urun_UrunLog.Designer.cs">
+      <DependentUpon>urun_UrunLog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Formlar\AnaSayfa.resx">
+      <DependentUpon>AnaSayfa.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\musteri_MusteriEkle.resx">
+      <DependentUpon>musteri_MusteriEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\personel_DepartmanEkle.resx">
+      <DependentUpon>personel_DepartmanEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\personel_PersonelEkle.resx">
+      <DependentUpon>personel_PersonelEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\satis_KategoriEkle.resx">
+      <DependentUpon>satis_KategoriEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\satis_MarkaEkle.resx">
+      <DependentUpon>satis_MarkaEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\satis_SatisEkle.resx">
+      <DependentUpon>satis_SatisEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formlar\urun_UrunEkle.resx">
+      <DependentUpon>urun_UrunEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelEkranlari\logGoster.resx">
+      <DependentUpon>logGoster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelEkranlari\musteriGoster.resx">
+      <DependentUpon>musteriGoster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelEkranlari\musteri_MusteriLog.resx">
+      <DependentUpon>musteri_MusteriLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelEkranlari\personelGoster.resx">
+      <DependentUpon>personelGoster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelEkranlari\satisGoster.resx">
+      <DependentUpon>satisGoster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelEkranlari\satis_SatisLog.resx">
+      <DependentUpon>satis_SatisLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelEkranlari\urunGoster.resx">
+      <DependentUpon>urunGoster.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PanelEkranlari\urun_UrunLog.resx">
+      <DependentUpon>urun_UrunLog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

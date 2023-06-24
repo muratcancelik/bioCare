@@ -1,0 +1,92 @@
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\bioCare2.exe.config
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\bioCare2.exe
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\bioCare2.pdb
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\BunifuDataViz 1.0.1.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\Bunifu_UI_v1.52.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\MySql.Data.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\Google.Protobuf.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\ZstdNet.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\System.Memory.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\System.Buffers.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\MySql.Data.xml
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.csproj.AssemblyReference.cache
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.exe.config
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.Form1.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.Properties.Resources.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.csproj.GenerateResource.cache
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.csproj.CoreCompileInputs.cache
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.csproj.CopyComplete
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.exe
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.pdb
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.AnaSayfa.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.urunGoster.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.logGoster.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.musteriGoster.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.personelGoster.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.satisGoster.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.Formlar.musteri_MusteriEkle.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.Formlar.personel_PersonelEkle.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.Formlar.satis_SatisEkle.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.Formlar.urun_UrunEkle.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.musteri_MusteriLog.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.satis_SatisLog.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.urun_UrunLog.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.Formlar.satis_KategoriEkle.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.Formlar.satis_MarkaEkle.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\obj\Debug\bioCare2.Formlar.personel_DepartmanEkle.resources
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\DevExpress.Data.v21.1.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\Muroc\source\repos\bioCare2\bioCare2\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\bioCare2.exe.config
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\bioCare2.exe
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\bioCare2.pdb
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\Google.Protobuf.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\ZstdNet.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\System.Memory.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\System.Buffers.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\DevExpress.Data.v21.1.xml
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\MySql.Data.xml
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\de\DevExpress.Data.v21.1.resources.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\es\DevExpress.Data.v21.1.resources.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\ja\DevExpress.Data.v21.1.resources.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\bin\Debug\ru\DevExpress.Data.v21.1.resources.dll
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.csproj.AssemblyReference.cache
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.exe.config
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.AnaSayfa.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.Form1.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.Formlar.musteri_MusteriEkle.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.Formlar.personel_DepartmanEkle.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.Formlar.personel_PersonelEkle.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.Formlar.satis_KategoriEkle.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.Formlar.satis_MarkaEkle.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.Formlar.satis_SatisEkle.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.Formlar.urun_UrunEkle.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.logGoster.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.musteriGoster.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.musteri_MusteriLog.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.personelGoster.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.satisGoster.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.satis_SatisLog.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.urunGoster.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.PanelEkranlari.urun_UrunLog.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.Properties.Resources.resources
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.csproj.GenerateResource.cache
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.csproj.CoreCompileInputs.cache
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.csproj.CopyComplete
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.exe
+C:\Users\murat\Downloads\yedeklenecekler\yedeklenecekler\GORSEL PROGRAMLAMA PROJE\Görsel Programlama\2020030043-Muratcan Celik\bioCare2\bioCare2\obj\Debug\bioCare2.pdb
